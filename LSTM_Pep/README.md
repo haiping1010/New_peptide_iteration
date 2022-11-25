@@ -12,7 +12,7 @@ This model is built using Python 3.7, and utilizes the following packages;
 * scikit-learn 0.22.2.post1
 
 
-
-The input fasta file was putted in generated_data folder.
+The input fasta for training the initial model was deposite in https://figshare.com/s/60ac3aaa96eb0942f8a2 .
+The input fasta files for funetuning were putted in generated_data folder.
 Finetune training the model and generating de novo peptide by following command:
 python retrain.py  
